@@ -42,7 +42,7 @@ display:flex;
   
     <div class="nav_contain">
     <p class="logo">Learners Academy</p>
-      <a href="<%=request.getContextPath()%>/"
+      <a href="<%=request.getContextPath()%>/listuser"
 					class="nav-link"><button class="btn btn-outline-secondary" > < Go Back</button></a>	
 			
 									
